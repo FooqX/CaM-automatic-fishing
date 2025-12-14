@@ -1,0 +1,1 @@
+NOTE: this is currently broken as this is old code. But the main part works. If you want this to work, then manually add a function that will call everytime to equip the rod again, because now for some reason the rod unequips everytime you fished out a fish. 
